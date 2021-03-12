@@ -151,5 +151,4 @@ int main()
     vector<instruction> instruction_set = compile(code);
     cout << "Compiled.";
     run(instruction_set, "");
-    cout << "Finished";
 }
