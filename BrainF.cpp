@@ -113,7 +113,7 @@ vector<instruction> compile(string code) {
 
 int run(vector<instruction> instruction_set, string input) {
     int cell[30000];
-    for (int i = 0; i < 30000; i++) { cell[i] = 0; }
+    for (int& a : cell) { a = 0; }
     int memory_pointer = 0;
     int len = instruction_set.size();
     int input_pointer = 0;
