@@ -10,6 +10,8 @@ for example:
 C:\>BrainF example.bf
 
 
+
+Now the oroginal build is also included.
 Yo.
 
 
