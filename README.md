@@ -1,5 +1,15 @@
 # BrainF
 BrainF--- compiler and runtime
+Milestone complete.....
 
-It's still in the testing phases. At the moment on building and executing BrainF.cpp the mandelbrot set is printed to the terminal window.
-Executing the corresponding Brainf code in satisfactory time is the milestone.
+
+The brainf compiler is operational. Download the cpp file build it and run the build with the .bf file as command line argument
+
+for example:
+
+C:\>BrainF example.bf
+
+
+Yo.
+
+
